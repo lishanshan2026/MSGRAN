@@ -1,0 +1,4 @@
+split_id,split_name,start_date,end_date,used_for
+0,training,2010-01-01,2019-12-31,trend normalization graph construction model fitting
+1,validation,2020-01-01,2021-12-31,checkpoint and configuration selection
+2,frozen_test,2022-01-01,2024-12-31,final evaluation only
